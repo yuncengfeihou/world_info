@@ -1,11 +1,10 @@
-// public/extensions/third-party/world-info-history/manifest.json
 {
     "display_name": "World Info 激活历史记录",
     "loading_order": 10,
     "requires": [],
     "optional": [],
     "js": "index.js",
-    "css": "style.css", // 如果你创建了 style.css，就保留这行
+    "css": "style.css", 
     "author": "你的名字",
     "version": "1.0.0",
     "homePage": ""

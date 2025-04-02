@@ -1,0 +1,7 @@
+/* public/extensions/third-party/world-info-history/style.css */
+
+#wi-history-display-area pre {
+    margin: 0; /* 移除 pre 标签默认的外边距 */
+    font-size: 0.8em; /* 调小字体，以便显示更多内容 */
+    color: #333;
+}
